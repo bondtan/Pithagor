@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pithagor</string>
+    <string name="card_button_expend_on">Expend card on</string>
+    <string name="card_button_expend_off">Expend card off</string>
+    <string name="open_menu">Open menu</string>
+    <string name="close_menu">Close menu</string>
+    <string name="divide">Divide</string>
+    <string name="multiply">Multiply</string>
+    <string name="multiplication_detail">Multiplication by</string>
+    <string name="division_detail">Division by</string>
+    <string name="detail_title">%1$s \n %2$d</string>
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="shape">Shape</string>
+    <string name="size">Size</string>
+    <string name="backup">back up</string>
+    <string name="button_previous">Previous number</string>
+    <string name="button_next">Next  number</string>
+</resources>
